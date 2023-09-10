@@ -29,10 +29,18 @@
     Si utilizo tipo float con una variable declarada como int colocar el resultado entre '(float)'
 
 # Consola
-
+    prueba 1
     Ingreso los siguientes argumentos: 
     4 
     10 
     4 
     El promedio de los numeros ingresados fue de: 6.0
+
+    prueba 2
+    Ingreso los siguientes argumentos: 
+    4 
+    10 
+    4 
+    3 
+    El promedio de los numeros ingresados fue de: 5.25
 
